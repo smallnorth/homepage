@@ -1,6 +1,5 @@
 {
-				"version": 2,
-				"regions": ["bru"],
-				"alias": ["smallnorth.com"]
+  "version": 2,
+  "regions": ["bru"],
+  "alias": ["smallnorth.com"]
 }
-
